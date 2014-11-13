@@ -1,0 +1,83 @@
+{
+  "handle" : "200.7.84/24",
+  "startAddress" : "200.7.84.0",
+  "endAddress" : "200.7.84.255",
+  "ipVersion" : "v4",
+  "name" : "LACNIC - Latin American and Caribbean IP address",
+  "type" : "assigned",
+  "country" : "UY",
+  "entities" : [ {
+    "handle" : "AIL",
+    "vcardArray" : [ "vcard", [ [ "version", { }, "text", "4.0" ], [ "fn", { }, "text", "Carlos M. Martínez" ], [ "kind", { }, "text", "individual" ], [ "adr", { }, "text", [ "", "", "Rambla Rep. Mexico 6125", "Montevideo", "", "11400", "UY" ] ], [ "tel", {
+      "type" : "voice"
+    }, "text", "598 2 6042222" ], [ "org", { }, "text", "LACNIC - Latin American and Caribbean IP address" ] ] ],
+    "roles" : [ "administrative", "technical" ],
+    "lang" : "SP"
+  }, {
+    "handle" : "ABL2",
+    "vcardArray" : [ "vcard", [ [ "version", { }, "text", "4.0" ], [ "fn", { }, "text", "Abuse LACNIC" ], [ "kind", { }, "text", "individual" ], [ "adr", { }, "text", [ "", "", "Rambla Rep. Mexico 6125", "Montevideo", "", "11600", "UY" ] ], [ "tel", {
+      "type" : "voice"
+    }, "text", "598 2 6042222" ] ] ],
+    "roles" : [ "abuse" ],
+    "lang" : "SP"
+  }, {
+    "handle" : "UY-LACN-LACNIC",
+    "vcardArray" : [ "vcard", [ [ "version", { }, "text", "4.0" ], [ "fn", { }, "text", "LACNIC - Latin American and Caribbean IP address" ], [ "kind", { }, "text", "org" ], [ "adr", { }, "text", [ "", "", "Rambla República de México 6125", "Montevideo", "", "11400", "UY" ] ], [ "tel", {
+      "type" : "voice"
+    }, "text", "598 2 6042222" ] ] ],
+    "roles" : [ "registrant" ],
+    "networks" : [ "179.0.156.0/22", "190.112.52.0/22", "200.0.86.0/23", "200.0.88.0/24", "200.3.12.0/22", "200.7.84.0/23", "200.7.86.0/23", "200.10.60.0/23", "200.10.62.0/23", "2001:13c7:7001::/48", "2001:13c7:7002::/48", "2001:13c7:7003::/48", "2001:13c7:7010::/46", "2801::/48" ],
+    "autnums" : [ "28000", "28001", "28002", "28119", "52224" ],
+    "entities" : [ {
+      "handle" : "AIL",
+      "vcardArray" : [ "vcard", [ [ "version", { }, "text", "4.0" ], [ "fn", { }, "text", "Carlos M. Martínez" ], [ "kind", { }, "text", "individual" ], [ "adr", { }, "text", [ "", "", "Rambla Rep. Mexico 6125", "Montevideo", "", "11400", "UY" ] ], [ "tel", {
+        "type" : "voice"
+      }, "text", "598 2 6042222" ], [ "org", { }, "text", "LACNIC - Latin American and Caribbean IP address" ] ] ],
+      "roles" : [ "administrative" ],
+      "lang" : "SP"
+    }, {
+      "handle" : "LAH",
+      "vcardArray" : [ "vcard", [ [ "version", { }, "text", "4.0" ], [ "fn", { }, "text", "LACNIC Hostmaster" ], [ "kind", { }, "text", "individual" ], [ "adr", { }, "text", [ "", "", "Rampla Republica del Mexico 6125", "Montevideo", "", "11400", "UY" ] ], [ "tel", {
+        "type" : "voice"
+      }, "text", "598 2 6062822" ], [ "org", { }, "text", "LACNIC - Latin American and Caribbean IP address" ] ] ],
+      "roles" : [ "registrant" ],
+      "lang" : "EN"
+    }, {
+      "handle" : "LUV4",
+      "vcardArray" : [ "vcard", [ [ "version", { }, "text", "4.0" ], [ "fn", { }, "text", "Luisa Villa" ], [ "kind", { }, "text", "individual" ], [ "adr", { }, "text", [ "", "", "Rambla República de México 6125", "Montevideo", "", "14000", "UY" ] ], [ "tel", {
+        "type" : "voice"
+      }, "text", "598 2 6042222" ], [ "org", { }, "text", "LACNIC - Latin American and Caribbean IP address" ] ] ],
+      "roles" : [ "billing" ],
+      "lang" : "EN"
+    } ],
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2014-09-08T17:59:28Z"
+    } ]
+  } ],
+  "links" : [ {
+    "value" : "http://rdap.lacnic.net/rdap/ip/200.7.84/24",
+    "rel" : "self",
+    "href" : "http://rdap.lacnic.net/rdap/ip/200.7.84/24"
+  }, {
+    "value" : "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+    "rel" : "copyright",
+    "href" : "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+  } ],
+  "events" : [ {
+    "eventAction" : "last changed",
+    "eventDate" : "2008-08-27T03:00:00Z"
+  } ],
+  "rdapConformance" : [ "rdap_level_0" ],
+  "notices" : [ {
+    "title" : "Terms and Conditions",
+    "description" : [ "This is the LACNIC RDAP service. Objects are in RDAP format." ],
+    "links" : [ {
+      "value" : "http://rdap.lacnic.net/rdap/ip/200.7.84/24",
+      "rel" : "terms-of-service",
+      "href" : "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "type" : "text/html"
+    } ]
+  } ],
+  "port43" : "whois.lacnic.net"
+}
