@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/rdap-parser.iml" filepath="$PROJECT_DIR$/.idea/rdap-parser.iml" />
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/../simon/simon-web/.idea/simon-web.iml" filepath="$PROJECT_DIR$/../simon/simon-web/.idea/simon-web.iml" />
+>>>>>>> origin/master
     </modules>
   </component>
 </project>
